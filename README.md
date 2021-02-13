@@ -1,4 +1,4 @@
-# SIG_Group_AI_Sustainability_1
+# AI4ALL Special Interest Group on AI and Sustainability 1
 
 ## Abstract
 
