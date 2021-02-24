@@ -1,6 +1,6 @@
 # AI4ALL Special Interest Group on AI and Sustainability 1
 
-Full Paper on Deliverable can be found in Paper folder of this Github.
+Full Paper on Deliverable can be found at this link: https://docs.google.com/document/d/1ruSUu1-HMOGXtVs927cX9UK17jBlCqdPdycejAyon8U/edit?usp=sharing
 
 ## Abstract
 
